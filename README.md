@@ -21,7 +21,7 @@ The code was tested with TitanX GPU/1080ti.
 
 ## Thanks
 
-A special thanks to Heng for his generous contributions to different ideas in the competition, for a long list of amazing Kaglle community members, Jeremy and Fast.ai community for the amazing framework. 
+A special thanks to Heng for his generous contributions to different ideas in the competition, for a long list of amazing Kaglle community members, Jeremy and Fast.ai community for the amazing and flexible fastai framework. 
 
  
 
