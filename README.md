@@ -1,5 +1,5 @@
 # TGS-SaltNet
-Kaggle | 22nd place solution for TGS Salt Identification Challenge
+Kaggle | 21st place solution for TGS Salt Identification Challenge
 
 ## General
 
